@@ -1,15 +1,20 @@
 #Data Dictionary - Samsung Phone Movement Measurement Data
 
 Activity
+
 	The Activity being performed.
+
 		WALKING
 		WALKING_UPSTAIRS
 		WALKING_DOWNSTAIRS
 		SITTING
 		STANDING
 		LAYING
+
 Subject
+
 	The person who was doing the measurements.
+
 		1..30 each of the 30 subjects had a designated number.
 		
 
